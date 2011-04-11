@@ -232,7 +232,7 @@
   <project path="system/wlan/ti" name="platform/system/wlan/ti" />
 
   <project path="vendor/cyanogen" name="ModADroid/android_vendor_cyanogen" remote="github" />
-  <project path="vendor/samsung/fascinate" name="ModADroid/android_vendor_samsung_fascinate" remote="github" />
+  <project path="vendor/samsung/fascinate" name="ModADroid/vendor_samsung_proprietary" remote="github" />
 
   <project path="android" name="CyanogenMod/android" remote="github" />
 
