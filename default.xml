@@ -111,7 +111,7 @@
   <project path="external/netcat" name="platform/external/netcat" />
   <project path="external/netperf" name="platform/external/netperf" />
   <project path="external/neven" name="platform/external/neven" />
-  <project path="external/opencore" name="CyanogenMod/android_external_opencore" remote="github" />
+  <project path="external/opencore" name="ModADroid/android_external_opencore" remote="github" />
   <project path="external/openssl" name="CyanogenMod/android_external_openssl" remote="github" />
   <project path="external/openvpn" name="CyanogenMod/android_external_openvpn" remote="github" revision="master" />
   <project path="external/oprofile" name="platform/external/oprofile" />
