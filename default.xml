@@ -256,6 +256,9 @@
 
   <project path="vendor/samsung/fascinate" name="ModADroid/vendor_samsung_proprietary" remote="github" />
 
-  <project path="android" name="CyanogenMod/android" remote="github" />
+  <project path="android" name="ModADroid/android" remote="github" />
+
+  <project path="kernel/linux-2.6-fascinate" name="jt1134/linux-2.6-fascinate" remote="github" />
+  <project path="kernel/fascinate_initramfs" name="jt1134/fascinate_initramfs" remote="github" />
 
 </manifest>
